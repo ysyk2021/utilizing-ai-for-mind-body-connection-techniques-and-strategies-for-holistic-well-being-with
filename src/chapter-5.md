@@ -1,5 +1,4 @@
-Chapter 5: AI Applications and Techniques for Sleep Health
-==========================================================
+
 
 AI offers a powerful tool for improving sleep health by enabling personalized sleep tracking and analysis, sleep hygiene and behavioral therapy, and soundscapes and light therapy. In this chapter, we will explore the applications and techniques of AI for sleep health.
 

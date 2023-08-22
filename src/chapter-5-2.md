@@ -1,5 +1,4 @@
-Addressing Sleep Disorders and Insomnia with AI-Enabled Sleep Hygiene and Behavioral Therapy
-========================================================================================================================================================
+
 
 In this chapter, we will explore how artificial intelligence (AI) can be used to address sleep disorders and insomnia. We will discuss AI-enabled sleep hygiene and behavioral therapy as techniques for improving sleep health.
 

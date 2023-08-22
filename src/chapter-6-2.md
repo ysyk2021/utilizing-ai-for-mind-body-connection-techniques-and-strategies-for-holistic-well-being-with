@@ -1,5 +1,4 @@
-Overcoming Barriers to Holistic Well-being with AI-Enabled Behavior Change and Social Support
-============================================================================================================================================================
+
 
 Overcoming barriers to holistic well-being is an important strategy for achieving success with AI in promoting overall wellness. In this chapter, we will explore strategies for leveraging AI-enabled behavior change and social support to overcome barriers to holistic well-being.
 

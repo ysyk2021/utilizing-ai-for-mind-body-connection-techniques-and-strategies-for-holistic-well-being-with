@@ -1,5 +1,4 @@
-Measuring the Effectiveness and Benefits of AI-Enabled Holistic Well-being for Physical, Mental, and Emotional Health
-====================================================================================================================================================================================
+
 
 In this chapter, we will explore how to evaluate the impact of AI on holistic well-being. We will discuss the importance of measuring effectiveness and benefits of AI-enabled holistic well-being for physical, mental, and emotional health.
 

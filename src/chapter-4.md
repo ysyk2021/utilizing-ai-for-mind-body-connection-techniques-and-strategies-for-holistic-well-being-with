@@ -1,5 +1,4 @@
-Chapter 4: AI Applications and Techniques for Mental Health
-===========================================================
+
 
 AI offers a powerful tool for improving mental health by enabling personalized meditation and mindfulness practice, cognitive behavioral therapy and psychotherapy, and brainwave monitoring and stimulation. In this chapter, we will explore the applications and techniques of AI for mental health.
 
