@@ -1,5 +1,4 @@
 
-
 AI offers a powerful tool for managing depression and mood disorders by enabling personalized cognitive behavioral therapy (CBT) and psychotherapy. In this chapter, we will explore the applications and techniques of AI for mental health, specifically in relation to managing depression and mood disorders.
 
 Understanding Cognitive Behavioral Therapy and Psychotherapy

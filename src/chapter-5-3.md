@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how artificial intelligence (AI) can be used to promote restful sleep and recovery. We will discuss AI-enabled soundscapes and light therapy as techniques for improving sleep health.
 
 The Importance of Sleep Health

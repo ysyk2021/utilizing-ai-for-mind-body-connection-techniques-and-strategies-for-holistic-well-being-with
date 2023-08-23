@@ -1,5 +1,4 @@
 
-
 AI technology offers a wide range of techniques and platforms for personalized health monitoring and optimization. In this chapter, we will explore the different types of AI techniques and platforms available for individuals seeking to improve their holistic well-being.
 
 Wearables

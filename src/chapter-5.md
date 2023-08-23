@@ -1,5 +1,4 @@
 
-
 AI offers a powerful tool for improving sleep health by enabling personalized sleep tracking and analysis, sleep hygiene and behavioral therapy, and soundscapes and light therapy. In this chapter, we will explore the applications and techniques of AI for sleep health.
 
 Optimizing Sleep Quality and Quantity with AI-Enabled Sleep Tracking and Analysis

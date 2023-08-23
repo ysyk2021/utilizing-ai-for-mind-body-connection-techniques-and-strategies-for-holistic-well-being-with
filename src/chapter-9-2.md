@@ -1,5 +1,4 @@
 
-
 In this book, we have explored how artificial intelligence can be used to enhance the mind-body connection and promote holistic wellness. We have discussed various techniques and strategies that individuals can use to leverage AI for improving their quality of life.
 
 The Power of AI for Holistic Wellness
