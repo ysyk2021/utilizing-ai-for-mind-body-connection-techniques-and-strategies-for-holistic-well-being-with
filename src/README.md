@@ -20,3 +20,7 @@ Throughout the book, readers will be introduced to a range of tools and resource
 By the end of this book, readers will have a comprehensive understanding of the potential of AI technology in supporting a holistic approach to wellness and self-care. Whether you are a healthcare provider, wellness coach, or simply someone interested in optimizing your own health and well-being, "Utilizing AI for Mind-Body Connection" provides an invaluable resource for leveraging the power of AI in achieving your goals.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
