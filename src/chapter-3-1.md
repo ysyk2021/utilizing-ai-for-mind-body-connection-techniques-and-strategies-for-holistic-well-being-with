@@ -1,5 +1,4 @@
-Chapter 9: Enhancing Fitness and Exercise Performance with AI-Enabled Biometric Monitoring and Feedback
-=======================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the groundbreaking potential of artificial intelligence (AI) in optimizing fitness and exercise performance. AI's role in biometric monitoring and providing real-time feedback can significantly contribute to improving physical well-being within the framework of holistic health.
 

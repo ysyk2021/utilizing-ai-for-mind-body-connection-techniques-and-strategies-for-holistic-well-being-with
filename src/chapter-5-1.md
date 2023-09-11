@@ -1,5 +1,4 @@
-Chapter 6: Optimizing Sleep Quality and Quantity with AI-Enabled Sleep Tracking and Analysis
-============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our fast-paced world, the importance of quality sleep cannot be overstated. Sleep is the foundation of holistic well-being, affecting both our mental and physical health. In this chapter, we will explore how artificial intelligence (AI) can revolutionize the way we track and optimize our sleep, leading to improved overall well-being.
 

@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Barriers to Holistic Well-being with AI-Enabled Behavior Change and Social Support
-========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Achieving holistic well-being often requires making positive lifestyle changes and receiving support from one's social network. Artificial intelligence plays a pivotal role in breaking down barriers and facilitating these changes. In this chapter, we will explore how AI empowers individuals to overcome obstacles and enhance their overall well-being through behavior change and social support.
 

@@ -1,5 +1,4 @@
-Chapter 6: Designing and Implementing Your Holistic Well-being Plan with AI Support
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of creating a personalized holistic well-being plan with the assistance of artificial intelligence (AI). By harnessing the power of AI, you can design a plan that addresses your unique physical, mental, emotional, and social well-being needs.
 

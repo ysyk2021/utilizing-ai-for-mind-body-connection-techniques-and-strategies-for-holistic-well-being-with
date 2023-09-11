@@ -1,5 +1,4 @@
-Chapter 4: Promoting Restful Sleep and Recovery with AI-Enabled Soundscapes and Light Therapy
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the innovative ways in which artificial intelligence (AI) is harnessed to enhance sleep quality and support recovery through the use of AI-enabled soundscapes and light therapy. These technologies leverage the mind-body connection to optimize restful sleep and overall well-being.
 

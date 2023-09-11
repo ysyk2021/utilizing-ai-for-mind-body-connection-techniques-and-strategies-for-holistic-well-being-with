@@ -1,5 +1,4 @@
-Chapter 1: Basic Principles and Processes of AI Algorithms and Machine Learning Models for Health Monitoring and Management
-===========================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concepts of artificial intelligence (AI) algorithms and machine learning models as they apply to health monitoring and management. Understanding these basic principles is essential for grasping how AI can enhance our holistic well-being. We will explore the building blocks of AI, the types of data used, and the core processes involved in creating AI-driven solutions for healthcare.
 

@@ -1,5 +1,4 @@
-Chapter 7: Enhancing Cognitive Function and Brain Health with AI-Enabled Brainwave Monitoring and Stimulation
-=============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting intersection of artificial intelligence (AI) and brain health. Leveraging AI-enabled brainwave monitoring and stimulation techniques, individuals can optimize their cognitive function and overall brain health. This chapter will delve into the potential of AI to enhance mental acuity and well-being.
 

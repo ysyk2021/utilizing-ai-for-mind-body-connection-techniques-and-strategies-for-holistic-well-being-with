@@ -1,5 +1,4 @@
-Chapter 8: Managing Depression and Mood Disorders with AI-Enabled Cognitive Behavioral Therapy and Psychotherapy
-================================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the innovative use of artificial intelligence (AI) in providing effective support and therapy for individuals dealing with depression and mood disorders. AI-enabled cognitive behavioral therapy (CBT) and psychotherapy are transforming the landscape of mental health care, offering new avenues for managing these challenging conditions.
 
